@@ -16,4 +16,4 @@ I am currrently working on mainly web development and building my first personal
 react,html5,bootstrap
 
 <h3>programming language</h3>
-  java,python,c,c#
+java,python,c,c#
